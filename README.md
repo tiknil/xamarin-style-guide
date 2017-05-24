@@ -5,7 +5,7 @@ Ogni consiglio o critica è ben accetta se contribuisce a migliorare la qualità
 ## SOMMARIO
 1. [Pattern di sviluppo](#pattern-di-sviluppo)
 	* [Inversion of Control e Dependency Injection](#inversion-of-control-e-dependency-injection)
-	* [MVVM](#mvvm-model-view-model)
+	* [MVVM](#mvvm-model---view---viewmodel)
 2. [XAML o C#?](#xaml-o-c)
 3. [Naming conventions](#naming-conventions)
 4. [Struttura e organizzazione della soluzione](#struttura-e-organizzazione-della-soluzione)
