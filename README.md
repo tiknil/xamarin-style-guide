@@ -5,14 +5,14 @@ Ogni consiglio o critica è ben accetta se contribuisce a migliorare la qualità
 ## SOMMARIO
 1. [Pattern di sviluppo](#pattern-di-sviluppo)
 	* [Inversion of Control e Dependency Injection](#inversion-of-control-e-dependency-injection)
-	* [MVVM](#mvvm-model---view---model)
-2. [XAML o C#?](#xaml-o-c#?)
+	* [MVVM](#mvvm-model-view-model)
+2. [XAML o C#?](#xaml-o-c)
 3. [Naming conventions](#naming-conventions)
 4. [Struttura e organizzazione della soluzione](#struttura-e-organizzazione-della-soluzione)
 	* [Cartelle e contenuti](#cartelle-e-contenuti)
 	* [Classi utili secondo Tiknil](#classi-utili-secondo-tiknil)
 	* [Gestione assets](#gestione-assets)
-5. [Tool e pacchetti NuGet usati e testati](tool-e-pacchetti-nuget-usati-e-testati)
+5. [Tool e pacchetti NuGet usati e testati](#tool-e-pacchetti-nuget-usati-e-testati)
 
 ### Pattern di sviluppo
 In questa sezione analizziamo un paio di pattern che abbiamo deciso di utilizzare nelle nostre applicazioni Xamarin Forms con l'obiettivo di migliorare **riusabilità** e **manutenibilità** del codice con conseguente agevolazione al lavoro in team.
